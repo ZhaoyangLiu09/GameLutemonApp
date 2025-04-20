@@ -31,7 +31,7 @@ public class BattlefieldAdapter extends RecyclerView.Adapter<LutemonViewHolder> 
         Lutemon lutemon = lutemons.get(position);
         holder.battleLutemonText.setText(lutemon.getName() + " (" + lutemon.getColor() + ")");
         
-        // 设置Lutemon的图像
+        // Set Lutemon's image
         holder.lutemonBattleImage.setImageResource(lutemon.getImageResource());
 
         holder.resetRadioButtons();
