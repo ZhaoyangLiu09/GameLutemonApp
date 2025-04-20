@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">GameLutemonApp</string>
+    <string name="valitse_kaksintaistelijat">Choose the duelists</string>
+    <string name="taistelemaan">Fight!</string>
+    <string name="taisteluareenalle">To Battle Arena</string>
+    <string name="lisaa_uusi_lutemon">Add new Lutemon</string>
+    <string name="listaa_lutemonit">List Lutemons</string>
+    <string name="siirra_lutemoneja">Move Lutemons</string>
+    
+    <!-- Color options -->
+    <string name="valkoinen">White</string>
+    <string name="vihrea">Green</string>
+    <string name="pinkki">Pink</string>
+    <string name="oranssi">Orange</string>
+    <string name="musta">Black</string>
+    
+    <!-- Other text -->
+    <string name="kirjoita_lutemonin_nimi">Enter Lutemon name</string>
+    <string name="luo_uusi_lutemon">Create new Lutemon</string>
+    
+    <!-- Move locations -->
+    <string name="kotiin">Home</string>
+    <string name="harjoitusalueelle">To Training Area</string>
+    <string name="siirra">Move</string>
+    
+    <!-- Battle messages -->
+    <string name="valitse_kaksi_lutemonia">Select two Lutemons</string>
+    <string name="aloittajaksi_arvottiin">The starting player is</string>
+    <string name="hyokkaa">attacks!</string>
+    <string name="kuoli">died.</string>
+    <string name="voitti">won.</string>
+    <string name="selvisi_hyokkayksesta">survived the attack</string>
+    <string name="elama_on">\'s health is</string>
+    <string name="taistelu_paattyi">The battle is over</string>
+    
+    <!-- Error messages -->
+    <string name="ei_siirrettavia_lutemoneja">No Lutemons to move</string>
+    
+    <!-- Lutemon attributes -->
+    <string name="hyokkays">Attack: </string>
+    <string name="puolustus">Defense: </string>
+    <string name="elama">Health: </string>
+    <string name="kokemus">Experience: </string>
+    
+    <!-- Locations -->
+    <string name="kotona">At Home</string>
+    <string name="harjoittelemassa">Training</string>
+    <string name="taistelukentalla">In Battlefield</string>
+</resources>

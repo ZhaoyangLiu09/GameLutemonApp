@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2935" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/drawable/lutemon_black.xml" value="0.2935" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/drawable/lutemon_green.xml" value="0.2935" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/drawable/lutemon_pink.xml" value="0.2935" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/drawable/lutemon_white.xml" value="0.2935" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_add_lutemon.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_battle_field.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_list_lutemons.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_main_screen.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/activity_move_lutemon.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/battle_lutemon_view.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/lutemon_view.xml" value="0.358695652173913" />
+        <entry key="..\:/OYWorkCode/android_24_12/GameLutemonApp/app/src/main/res/layout/move_lutemon_view.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
